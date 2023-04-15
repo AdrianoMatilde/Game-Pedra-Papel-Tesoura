@@ -1,6 +1,9 @@
 ## Game-Pedra-Papel-Tesoura
 ---
 
+O arquivo game-pedra-papel-tesoura.py é executavel dentro do python.
+o arquivo game-ppt-tkinter.py gera uma interface grafica em um executavel para windows utilizando a ferramenta Tkinter.
+
  Exercício realizado utilizando estruturas condicionais If, Else, Elif.
  
  Quando programamos, muitas vezes precisamos que determinado bloco de código seja executado apenas se uma determinada condição for verdadeira, sendo assim se essa condição é satisfeita, então o codigo executa esse bloco de comandos; senão, executa outro bloco de comandos.

@@ -25,4 +25,7 @@ o arquivo game-ppt-tkinter.py gera uma interface grafica em um executavel para w
 A função é chamada na linha final do código, iniciando o jogo.
 
 ---
+
 Espero que tenha gostado!
+
+Se tiver mais alguma ideia não deixe de contribuir.
